@@ -1,0 +1,24 @@
+{
+  "name": "promises-waterfall-compact",
+  "version": "1.0.0",
+  "description": "Make a waterfall of promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zulivan/promises-waterfall-compact.git"
+  },
+  "keywords": [
+    "promises",
+    "waterfall",
+    "chain"
+  ],
+  "author": "Zulivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zulivan/promises-waterfall-compact/issues"
+  },
+  "homepage": "https://github.com/Zulivan/promises-waterfall-compact#readme"
+}
