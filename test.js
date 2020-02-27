@@ -1,6 +1,5 @@
 const Waterfall = require('.');
 
-//Why not passing random arguments
 function APromise(issok = true, timeout = 1, note = 'no note set') {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
